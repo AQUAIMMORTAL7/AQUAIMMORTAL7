@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ankit
 
-🎓 **First-year Electrical Engineering student** at Galgotiyas University  
+🎓 **First-year CSE student** at Galgotias University  
 💻 **Developer** with a growing interest in Artificial Intelligence and Machine Learning  
 🧠 **Curious learner** who enjoys building, breaking, and refining software
 
