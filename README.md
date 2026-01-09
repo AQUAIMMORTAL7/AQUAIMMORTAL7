@@ -48,9 +48,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AQUAIMMORTAL7&theme=dracula" alt="GitHub Streak" />
 </p>
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AQUAIMMORTAL7&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AQUAIMMORTAL7&theme=radical&column=7&margin-w=15&no-bg=true&no-frame=true" alt="trophies" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/AQUAIMMORTAL7?tab=achievements">
+    <img src="https://img.shields.io/badge/View-My%20Official%20Achievements-orange?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
