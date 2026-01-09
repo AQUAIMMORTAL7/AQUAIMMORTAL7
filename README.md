@@ -44,9 +44,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AQUAIMMORTAL7&layout=compact&theme=dracula" alt="Top Languages" height="180" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AQUAIMMORTAL7&theme=dracula" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AQUAIMMORTAL7&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="AQUAIMMORTAL7" />
