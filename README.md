@@ -50,7 +50,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AQUAIMMORTAL7&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AQUAIMMORTAL7&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies" />
 </p>
 
 ---
