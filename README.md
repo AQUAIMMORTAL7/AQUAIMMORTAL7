@@ -39,8 +39,8 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AQUAIMMORTAL7&show_icons=true&theme=dracula" alt="Ankit's GitHub stats" height="180" />
-  
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AQUAIMMORTAL7&show_icons=true&theme=dracula&cache_seconds=1800" />
+
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AQUAIMMORTAL7&layout=compact&theme=dracula" alt="Top Languages" height="180" />
 </p>
 
