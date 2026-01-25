@@ -48,3 +48,15 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AQUAIMMORTAL7&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="AQUAIMMORTAL7" />
 </p>
+---
+
+
+## 🛠️ Featured Projects
+
+### 🔹 [🚀 Mission Control Pro — Productivity Dashboard](https://github.com/AQUAIMMORTAL7/Task-Planner)
+**Full-stack PWA with Real-Time Analytics**
+
+- Real-Time Sync: Engineered a seamless backend using **Firebase Real-Time Database**, ensuring mission-critical data persists across sessions and devices.
+- mplemented a **Service Worker-driven offline mode** and manifest configuration, allowing the app to be installed and run as a native desktop/mobile application.
+- Designed a responsive, **category-filtered Kanban board** with automated date-sorting (Previous, Today, Upcoming) to optimize workflow focus.
+- **Tech**: JavaScript (ES6+), Firebase, CSS3 (Glassmorphism), HTML5, Service Workers.
