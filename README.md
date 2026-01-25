@@ -39,10 +39,11 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AQUAIMMORTAL7&show_icons=true&theme=dracula&cache_seconds=1800" />
-
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AQUAIMMORTAL7&layout=compact&theme=dracula" alt="Top Languages" height="180" />
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AQUAIMMORTAL7&show_icons=true&theme=dracula&cache_seconds=1800" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AQUAIMMORTAL7&layout=compact&theme=dracula" height="180" />
 </p>
+
 
 
 <p align="center">
