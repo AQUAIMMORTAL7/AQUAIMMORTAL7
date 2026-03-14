@@ -103,8 +103,3 @@
   <img alt="pacman animation" src="https://raw.githubusercontent.com/ankit-8081/ankit-8081/output/pacman-contribution-graph-dark.svg" width="100%"/>
 </picture>
 
----
-
-## 🔵 Moving Dots
-
-<img src="https://raw.githubusercontent.com/ankit-8081/ankit-8081/main/output/dots.svg" width="100%"/>
