@@ -51,6 +51,27 @@
 
 
 ---
+## 📅 &nbsp;Contribution Calendar
+
+
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankit-8081&theme=monokai" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankit-8081&theme=monokai" />
+  &nbsp;
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankit-8081&theme=monokai" />
+  &nbsp;
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankit-8081&theme=monokai&utcOffset=5.5" />
+</div>
+
+<br/>
 
 
 ## 🛠️ Featured Projects
@@ -62,3 +83,6 @@
 - mplemented a **Service Worker-driven offline mode** and manifest configuration, allowing the app to be installed and run as a native desktop/mobile application.
 - Designed a responsive, **category-filtered Kanban board** with automated date-sorting (Previous, Today, Upcoming) to optimize workflow focus.
 - **Tech**: JavaScript (ES6+), Firebase, CSS3 (Glassmorphism), HTML5, Service Workers.
+
+
+---
