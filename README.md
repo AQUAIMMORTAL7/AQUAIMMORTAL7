@@ -84,5 +84,27 @@
 - Designed a responsive, **category-filtered Kanban board** with automated date-sorting (Previous, Today, Upcoming) to optimize workflow focus.
 - **Tech**: JavaScript (ES6+), Firebase, CSS3 (Glassmorphism), HTML5, Service Workers.
 
+---
+## 🐍 Snake Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankit-8081/ankit-8081/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankit-8081/ankit-8081/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ankit-8081/ankit-8081/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 ---
+
+## 🕹️ Pac-Man Contribution Map
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankit-8081/ankit-8081/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankit-8081/ankit-8081/output/pacman-contribution-graph.svg">
+  <img alt="pacman animation" src="https://raw.githubusercontent.com/ankit-8081/ankit-8081/output/pacman-contribution-graph-dark.svg" width="100%"/>
+</picture>
+
+---
+
+## 🔵 Moving Dots
+
+<img src="https://raw.githubusercontent.com/ankit-8081/ankit-8081/main/output/dots.svg" width="100%"/>
