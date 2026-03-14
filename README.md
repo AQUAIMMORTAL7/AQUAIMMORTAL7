@@ -38,24 +38,24 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ## 📊 GitHub Stats
 
-<p align="left">
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ankit-8081&show_icons=true&theme=dracula&cache_seconds=1800" height="180" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ankit-8081&layout=compact&theme=dracula" height="180" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankit-8081&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=02000e&title_color=a855f7&icon_color=7c3aed&text_color=c4b5fd&count_private=true&rank_icon=github&custom_title=Ankit%27s+Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=ankit-8081&theme=midnight-purple&hide_border=true&background=02000e&ring=a855f7&fire=ff4ecd&currStreakLabel=a855f7&sideLabels=7c3aed&dates=c4b5fd&sideNums=ffffff" />
+</div>
 
+<br/>
 
+<div align="center">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-8081&layout=donut&theme=midnight-purple&hide_border=true&bg_color=02000e&title_color=a855f7&text_color=c4b5fd&langs_count=7&custom_title=Languages" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AQUAIMMORTAL7&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="AQUAIMMORTAL7" />
-</p>
 
 ---
 
 
 ## 🛠️ Featured Projects
 
-### 🔹 [🚀 Mission Control Pro — Productivity Dashboard](https://github.com/AQUAIMMORTAL7/Task-Planner)
+### 🔹 [🚀 Workflow Pro — Productivity Dashboard](https://github.com/AQUAIMMORTAL7/Task-Planner)
 **Full-stack PWA with Real-Time Analytics**
 
 - Real-Time Sync: Engineered a seamless backend using **Firebase Real-Time Database**, ensuring mission-critical data persists across sessions and devices.
