@@ -38,15 +38,15 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ## 📊 GitHub Stats
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankit-8081&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=02000e&title_color=a855f7&icon_color=7c3aed&text_color=c4b5fd&count_private=true&rank_icon=github&custom_title=Ankit%27s+Stats&v=1" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=ankit-8081&theme=midnight-purple&hide_border=true&background=02000e&ring=a855f7&fire=ff4ecd&currStreakLabel=a855f7&sideLabels=7c3aed&dates=c4b5fd&sideNums=ffffff&v=1" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankit-8081&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=02000e&title_color=a855f7&icon_color=7c3aed&text_color=c4b5fd&count_private=true&rank_icon=github&include_all_commits=true&custom_title=Ankit%27s+Stats&v=2" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=ankit-8081&theme=midnight-purple&hide_border=true&background=02000e&ring=a855f7&fire=ff4ecd&currStreakLabel=a855f7&sideLabels=7c3aed&dates=c4b5fd&sideNums=ffffff&v=2" />
 </div>
+
 <br/>
 
 <div align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-8081&layout=donut&theme=midnight-purple&hide_border=true&bg_color=02000e&title_color=a855f7&text_color=c4b5fd&langs_count=7&custom_title=Languages" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-8081&layout=donut&theme=midnight-purple&hide_border=true&bg_color=02000e&title_color=a855f7&text_color=c4b5fd&langs_count=7&custom_title=Languages&v=2" />
 </div>
-
 
 ---
 ## 📅 &nbsp;Contribution Calendar
