@@ -37,12 +37,10 @@
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankit-8081&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=02000e&title_color=a855f7&icon_color=7c3aed&text_color=c4b5fd&count_private=true&rank_icon=github&custom_title=Ankit%27s+Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=ankit-8081&theme=midnight-purple&hide_border=true&background=02000e&ring=a855f7&fire=ff4ecd&currStreakLabel=a855f7&sideLabels=7c3aed&dates=c4b5fd&sideNums=ffffff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankit-8081&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=02000e&title_color=a855f7&icon_color=7c3aed&text_color=c4b5fd&count_private=true&rank_icon=github&custom_title=Ankit%27s+Stats&v=1" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=ankit-8081&theme=midnight-purple&hide_border=true&background=02000e&ring=a855f7&fire=ff4ecd&currStreakLabel=a855f7&sideLabels=7c3aed&dates=c4b5fd&sideNums=ffffff&v=1" />
 </div>
-
 <br/>
 
 <div align="center">
